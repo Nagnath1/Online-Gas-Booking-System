@@ -1,0 +1,2 @@
+# Online-Gas-Booking-System
+Online Gas Booking is an iOS application to facilitates Gas consumers to avail various LPG related services on the go, Service that can availed area. Book LPG Refill. Check Refill History. Log a Complaint. Rate the Gas distributor. Avail Preferred time delivery. Transparency Portal PreRequisite for usage of Mobile App: User should be a consumer. Should have a valid e-mail Id. Must have registered.
